@@ -6,3 +6,6 @@ def prob_2 (f):
 
 def prob_3 (b,p):
 	return (b**p)
+
+def prob_4 (h,l):
+	return(((l/2)*"*")+h+((l/2)*"*")
