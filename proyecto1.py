@@ -1,2 +1,3 @@
-def prob_1(a):
-	return(a%2==0)
+def prob_1 (a):
+	return (a%2==0)
+
