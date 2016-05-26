@@ -10,7 +10,7 @@ def prob_3 (b,p):
 def prob_4 (h,l):
 	return(((l//2)*"*")+h+((l//2)*"*")
 
-def prob_5 (a,b),(c,d),(e,f):
-	return (a*c+a*e+c*e+b*d+b*f+d*f)   
+def prob_5 (a,b),(c,d):
+	return ((a*c)+(b*d))
+	  
 
-def prob_6 
