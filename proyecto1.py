@@ -8,9 +8,9 @@ def prob_3 (b,p):
 	return (b**p)
 
 def prob_4 (h,l):
-	return(((l//2)*"*")+h+((l//2)*"*")
+	inz=(l-len(h))
+	der=l-(inz+len(h))
+	return inz+h+der
 
 def prob_5 (a,b),(c,d):
 	return ((a*c)+(b*d))
-	  
-
